@@ -1,6 +1,6 @@
 services:
   nginx:
-    image: waiyanmoelwin/test
+    image: waiyanmoelwin/234-deploylab-11:latest
     build:
       context: .
     ports:
